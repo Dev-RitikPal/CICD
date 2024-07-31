@@ -22,7 +22,6 @@ const MemberDashboard = () => {
   return (
     <div style={{ display: "flex" }}>
       <SideBaarDrawer />
-
       <Navbaar>
         <Dropdown />
       </Navbaar>
@@ -489,7 +488,6 @@ const MemberDashboard = () => {
               </CardActions>
             </Card>
           </Grid>
-          {/*  */}
         </Grid>
       </Container>
     </div>
