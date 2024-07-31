@@ -137,6 +137,7 @@ const MemberDashboard = () => {
     );
     setShowTable(true);
   };
+  
   const clearFilter = () => {
     setFilteredMemberList({
       firstName: "",
